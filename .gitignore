@@ -1,3 +1,11 @@
+#idea
+.idea
+
+# go.sum
+go.sum
+
+examples/*.log
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
